@@ -1,0 +1,14 @@
+body{
+    background-color: black; width: 99%;
+    background-image: url(img/naruto-thumb.png);
+    
+}
+h1{
+    color: yellow;
+    background: rgb(226, 153, 17);
+}
+p{
+    color: yellow;
+    background-color: black;
+    width: 350px;
+}
